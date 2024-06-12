@@ -1,0 +1,61 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": false,
+        "HideIconAfter": 60,
+        "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "Welcome",
+          "title1": "Welcome to the GRINCHLAND",    
+          "text1": "Welcome to the GRINCHLAND !\n\nGRINCHLAND is a 100% PVE server.\nYou'll find everything you need to know about the server on this panel.\nFirst of all, don't hesitate to join the discord using the link below, to keep up to date with everything that's happening on the server or to communicate with other people.\nI invite you to have a look at the rules in the \"<TextStyle.Yellow>RULES</>\" tab to avoid doing anything and getting punished. They're not long, just some common sense to help you get along better with other players.\nYou also have a \"<TextStyle.Green>SHOP</>\" tab where you can find all the details of how the shop works and the kits on the server.\nI wish you a good game and if you have any problem don't hesitate to open a ticket in the <TextStyle.LightBlue>#support</> channel on the GRINCHLAND discord.\n",
+          "imageurl": "https://i.imgur.com/hMDwpDJ.png"
+        }
+      },
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "<TextStyle.Yellow>RULES</>",
+          "title1": "<TextStyle.Yellow>RULES</>",
+          "text1": "1. Be respectful of other players.\n\n2. Zero tolerance for Cheats/Glitches/Griefs/Trolls.\n\n3. No stealing.\n\n4. No function spam.\n\n5. No construction at player spawn.\n\n6. Avoid building too close to your neighbor for better cohabitation.\n\n7. Don't build too large a base, as this may damage the server and cause lag.\n\n8. Have fun !\n\n\nThank you for respecting these rules to have a pleasant server to play.\nIf you have a problem, use the <TextStyle.LightBlue>#support</> channel on discord to open a ticket.",
+          "imageurl": "https://i.imgur.com/hMDwpDJ.png"
+        }
+      },
+      {
+        "tab3": {
+          "layout": 2,
+          "buttontext": "<TextStyle.Green>SHOP</>",
+          "title1": "<TextStyle.Green>SHOP</>",
+          "text1": "Accessing the shop is easy:\n\nPress \"<TextStyle.Yellow>F2</>\" or hold down \"<TextStyle.Yellow>R</>\" and select ARK SHOP.\n\nThe shop is powered by your time on the server.\n\nAll points are reset at each wipe and everyone starts from 0.\n\nYou earn:\n- <TextStyle.White>10</> points every 15 minutes for a normal account.\n- <TextStyle.White>20</> points every 15 minutes for an <TextStyle.Yellow>VIP</> account.\n- <TextStyle.White>50</> points every 15 minutes for an <TextStyle.Orange>VIP+</> account.\n- <TextStyle.White>200</> points every 15 minutes for an <TextStyle.Green>MVP</> account.\n\n\nWith these points you can buy any of the items offered in the shop.\n\nYou can also purchase kits, including a \"Starter Kit\" to get your adventure off to a good start on the server.\n\nYou can find all the information on the different PACKAGES on the server if you're interested on the online SHOP or simply on the tab just to the right.\n\n",
+          "title2": "PACKAGES",
+          "text2": "Here are the different grades available on the server.\n\nEach packages is for a period of 30 days and non-refundable.\n\n<TextStyle.Yellow>VIP</> 9.99€ month(30 days) :\n- <TextStyle.White>1000</> points instant.\n- <TextStyle.White>20</> points every 15 minutes.\n- \"VIP KIT STARTER\"\n\n<TextStyle.Orange>VIP+</> 29.99€ month(30 days) :\n- <TextStyle.White>3000</> points instant.\n- <TextStyle.White>50</> points every 15 minutes.\n- \"VIP+ KIT STARTER\"\n\n<TextStyle.Green>MVP</> 49.99€ month(30 days):\n- <TextStyle.White>8000</> points instant.\n- <TextStyle.White>200</> points every 15 minutes.\n- \"MVP KIT STARTER\"",
+          "imageurl": "https://i.imgur.com/hMDwpDJ.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord",
+          "url": "https://discord.gg/DxM93rUtHj"
+        }
+      },
+      {
+        "link2": {
+          "text": "<TextStyle.Green>SHOP</>",
+          "url": "https://grinchland.tip4serv.com/"
+        }
+      }
+    ]
+  }
+}
